@@ -1,0 +1,8 @@
+                  Plan B
+- Belajar AI atau Machine Learning 
+  *Biasanya make python
+  
+- Belajar tentang IoT 
+  *Commonly use arduino ide 
+
+        Semangat nambah skill baru !!
