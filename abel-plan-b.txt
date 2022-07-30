@@ -4,5 +4,7 @@
   
 - Belajar tentang IoT 
   *Commonly use arduino ide 
+  
+- Belajar Data Science
 
         Semangat nambah skill baru !!
